@@ -6,6 +6,14 @@ Running with elevated privileges is required to access the low level raw mouse i
 
 ![Screenshot of the application's graph plot](screenshots/screenshot1.png "Application Dashboard")
 
+# Usage
+
+1. Create a virtual python env and activate it.
+2. Install requirements from `requirements.txt`.
+3. `sudo su`
+4. Activate the virtual python env.
+5. `python mousetester.py`
+
 ```
 $ python mousetester.py
 
@@ -24,11 +32,3 @@ Mouse device released.
 Tracking stopped.
 Displaying plot. Close the plot window to exit the program.
 ```
-
-# Usage
-
-1. Create a virtual python env and activate it.
-2. Install requirements from `requirements.txt`.
-3. `sudo su`
-4. Activate the virtual python env.
-5. `python mousetester.py`
