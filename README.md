@@ -4,7 +4,7 @@ Very simple mouse testing script written in Python and inspired by [microe1/Mous
 
 Running with elevated privileges is required to access the low level raw mouse input.
 
-![Screenshot of the application's graph plot](screenshots/screenshot1.png "Application Dashboard")
+![Screenshot of the application's graph plot](screenshots/screenshot1.png "Graph plot of mouse counts")
 
 # Usage
 
